@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英语单词学习</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="src/css/style.css">
+    <script>
+        // 浏览器兼容性检测和polyfill
+        (function() {
+            'use strict';
+
+            // 检测浏览器兼容性
+            var isModernBrowser = (
+                'Promise' in window &&
+                'fetch' in window &&
+                'localStorage' in window &&
+                'Array' in window &&
+                'Object' in window
+            );
+
+            if (!isModernBrowser) {
+                alert('您的浏览器版本过低，无法正常使用此应用。请使用最新版本的 Chrome、Firefox、Safari 或 Edge 浏览器。');
+            }
+
+            // Polyfill for Array.includes
+            if (!Array.prototype.includes) {
+                Array.prototype.includes = function(searchElement, fromIndex) {
+                    if (!this) {
+                        throw new TypeError('Array.prototype.includes called on null or undefined');
+                    }
+                    var O = Object(this);
+                    var len = parseInt(O.length) || 0;
+                    if (len === 0) {
+                        return false;
+                    }
+                    var n = parseInt(fromIndex) || 0;
+                    if (n >= 0) {
+                        var k = n;
+                    } else {
+                        k = len + n;
+                        if (k < 0) {
+                            k = 0;
+                        }
+                    }
+                    var currentElement;
+                    while (k < len) {
+                        currentElement = O[k];
+                        if (searchElement === currentElement ||
+                            (searchElement !== searchElement && currentElement !== currentElement)) {
+                            return true;
+                        }
+                        k++;
+                    }
+                    return false;
+                };
+            }
+
+            // Polyfill for Array.prototype.find
+            if (!Array.prototype.find) {
+                Array.prototype.find = function(predicate) {
+                    if (this === null) {
+                        throw new TypeError('Array.prototype.find called on null or undefined');
+                    }
+                    if (typeof predicate !== 'function') {
+                        throw new TypeError('predicate must be a function');
+                    }
+                    var list = Object(this);
+                    var length = list.length >>> 0;
+                    var thisArg = arguments[1];
+                    var value;
+
+                    for (var i = 0; i < length; i++) {
+                        value = list[i];
+                        if (predicate.call(thisArg, value, i, list)) {
+                            return value;
+                        }
+                    }
+                    return undefined;
+                };
+            }
+
+            // Polyfill for Array.prototype.filter
+            if (!Array.prototype.filter) {
+                Array.prototype.filter = function(fun) {
+                    if (this === void 0 || this === null) {
+                        throw new TypeError();
+                    }
+                    var t = Object(this);
+                    var len = t.length >>> 0;
+                    if (typeof fun !== 'function') {
+                        throw new TypeError();
+                    }
+                    var res = [];
+                    var thisArg = arguments.length >= 2 ? arguments[1] : void 0;
+                    for (var i = 0; i < len; i++) {
+                        if (i in t) {
+                            var val = t[i];
+                            if (fun.call(thisArg, val, i, t)) {
+                                res.push(val);
+                            }
+                        }
+                    }
+                    return res;
+                };
+            }
+
+            // Polyfill for Array.prototype.map
+            if (!Array.prototype.map) {
+                Array.prototype.map = function(callback, thisArg) {
+                    var T, A, k;
+                    if (this == null) {
+                        throw new TypeError('this is null or not defined');
+                    }
+                    var O = Object(this);
+                    var len = O.length >>> 0;
+                    if (typeof callback !== 'function') {
+                        throw new TypeError(callback + ' is not a function');
+                    }
+                    if (arguments.length > 1) {
+                        T = thisArg;
+                    }
+                    A = new Array(len);
+                    k = 0;
+                    while (k < len) {
+                        var kValue, mappedValue;
+                        if (k in O) {
+                            kValue = O[k];
+                            mappedValue = callback.call(T, kValue, k, O);
+                            A[k] = mappedValue;
+                        }
+                        k++;
+                    }
+                    return A;
+                };
+            }
+
+            // Polyfill for Array.prototype.forEach
+            if (!Array.prototype.forEach) {
+                Array.prototype.forEach = function(callback, thisArg) {
+                    var T, k;
+                    if (this == null) {
+                        throw new TypeError('this is null or not defined');
+                    }
+                    var O = Object(this);
+                    var len = O.length >>> 0;
+                    if (typeof callback !== 'function') {
+                        throw new TypeError(callback + ' is not a function');
+                    }
+                    if (arguments.length > 1) {
+                        T = thisArg;
+                    }
+                    k = 0;
+                    while (k < len) {
+                        var kValue;
+                        if (k in O) {
+                            kValue = O[k];
+                            callback.call(T, kValue, k, O);
+                        }
+                        k++;
+                    }
+                };
+            }
+
+            // Polyfill for Object.keys
+            if (!Object.keys) {
+                Object.keys = (function() {
+                    'use strict';
+                    var hasOwnProperty = Object.prototype.hasOwnProperty,
+                        hasDontEnumBug = !({toString: null}).propertyIsEnumerable('toString'),
+                        dontEnums = [
+                            'toString',
+                            'toLocaleString',
+                            'valueOf',
+                            'hasOwnProperty',
+                            'isPrototypeOf',
+                            'propertyIsEnumerable',
+                            'constructor'
+                        ],
+                        dontEnumsLength = dontEnums.length;
+
+                    return function(obj) {
+                        if (typeof obj !== 'function' && (typeof obj !== 'object' || obj === null)) {
+                            throw new TypeError('Object.keys called on non-object');
+                        }
+
+                        var result = [], prop, i;
+
+                        for (prop in obj) {
+                            if (hasOwnProperty.call(obj, prop)) {
+                                result.push(prop);
+                            }
+                        }
+
+                        if (hasDontEnumBug) {
+                            for (i = 0; i < dontEnumsLength; i++) {
+                                if (hasOwnProperty.call(obj, dontEnums[i])) {
+                                    result.push(dontEnums[i]);
+                                }
+                            }
+                        }
+                        return result;
+                    };
+                }());
+            }
+
+            // Polyfill for Object.values
+            if (!Object.values) {
+                Object.values = function(obj) {
+                    var vals = [];
+                    for (var key in obj) {
+                        if (Object.prototype.hasOwnProperty.call(obj, key)) {
+                            vals.push(obj[key]);
+                        }
+                    }
+                    return vals;
+                };
+            }
+
+            // Polyfill for String.prototype.includes
+            if (!String.prototype.includes) {
+                String.prototype.includes = function(search, start) {
+                    if (typeof start !== 'number') {
+                        start = 0;
+                    }
+                    if (start + search.length > this.length) {
+                        return false;
+                    } else {
+                        return this.indexOf(search, start) !== -1;
+                    }
+                };
+            }
+
+            // Polyfill for Function.prototype.bind
+            if (!Function.prototype.bind) {
+                Function.prototype.bind = function(oThis) {
+                    if (typeof this !== 'function') {
+                        throw new TypeError('Function.prototype.bind - what is trying to be bound is not callable');
+                    }
+                    var aArgs = Array.prototype.slice.call(arguments, 1),
+                        fToBind = this,
+                        fNOP = function() {},
+                        fBound = function() {
+                            return fToBind.apply(this instanceof fNOP ? this : oThis,
+                                aArgs.concat(Array.prototype.slice.call(arguments)));
+                        };
+                    if (this.prototype) {
+                        fNOP.prototype = this.prototype;
+                    }
+                    fBound.prototype = new fNOP();
+                    return fBound;
+                };
+            }
+
+            // 检测 localStorage 可用性
+            function testLocalStorage() {
+                try {
+                    localStorage.setItem('test', 'test');
+                    localStorage.removeItem('test');
+                    return true;
+                } catch (e) {
+                    return false;
+                }
+            }
+
+            if (!testLocalStorage()) {
+                alert('您的浏览器禁用了本地存储功能，应用可能无法正常保存学习进度。请在浏览器设置中启用本地存储。');
+            }
+        })();
+    </script>
+</head>
+<body>
+    <!-- 单词库选择页 -->
+    <div id="view-wordbank-selector" class="view active">
+        <div class="container">
+            <header class="page-header">
+                <h1>英语单词学习</h1>
+                <p class="subtitle">选择单词库开始学习</p>
+            </header>
+            <div class="wordbank-selector">
+                <div class="wordbank-card" data-wordbank="ielts">
+                    <div class="card-icon">📚</div>
+                    <h2>雅思单词库</h2>
+                    <p>IELTS核心词汇，高频词和常用词</p>
+                </div>
+                <div class="wordbank-card" data-wordbank="cet6">
+                    <div class="card-icon">🎓</div>
+                    <h2>英语六级单词库</h2>
+                    <p>CET-6核心词汇，高频词和常用词</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 每日测试页 -->
+    <div id="view-daily-quiz" class="view">
+        <div class="container">
+            <header class="page-header">
+                <h1 id="quiz-title">每日测试</h1>
+                <div class="progress-container">
+                    <div class="progress-bar">
+                        <div id="progress-fill" class="progress-fill"></div>
+                    </div>
+                    <span id="progress-text" class="progress-text">0/25</span>
+                </div>
+            </header>
+            <main class="quiz-container">
+                <div class="word-display">
+                    <div class="word-actions">
+                        <div class="word-actions-line">
+                            <span id="current-part-of-speech" class="part-of-speech"></span>
+                            <h2 id="current-word" class="word-text"></h2>
+                        </div>
+                        <span id="current-phonetic" class="phonetic-text"></span>
+                    </div>
+                </div>
+                <div id="options-container" class="options-container">
+                    <!-- 选项将通过JS动态生成 -->
+                </div>
+                <div id="feedback-message" class="feedback-message"></div>
+                <button id="next-question-btn" class="btn btn-primary" style="display: none; margin-top: 20px; width: 100%;">下一题</button>
+            </main>
+        </div>
+    </div>
+
+    <!-- 完成总结页 -->
+    <div id="view-complete-summary" class="view">
+        <div class="container">
+            <div class="summary-container">
+                <div class="summary-icon">🎉</div>
+                <h1>今日学习完成！</h1>
+                <div class="summary-stats">
+                    <div class="stat-item">
+                        <span class="stat-value" id="summary-total">25</span>
+                        <span class="stat-label">总单词数</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="summary-correct">0</span>
+                        <span class="stat-label">正确</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="summary-wrong">0</span>
+                        <span class="stat-label">错误</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="summary-mastered">0</span>
+                        <span class="stat-label">新掌握</span>
+                    </div>
+                </div>
+                
+                <!-- 学习统计区域 -->
+                <div class="learning-stats">
+                    <h3>学习统计</h3>
+                    <div class="stats-grid">
+                        <div class="stat-box">
+                            <div class="stat-box-icon">📚</div>
+                            <div class="stat-box-content">
+                                <div class="stat-box-value" id="stat-total-mastered">0</div>
+                                <div class="stat-box-label">总掌握单词</div>
+                            </div>
+                        </div>
+                        <div class="stat-box">
+                            <div class="stat-box-icon">🔥</div>
+                            <div class="stat-box-content">
+                                <div class="stat-box-value" id="stat-consecutive-days">0</div>
+                                <div class="stat-box-label">连续学习天数</div>
+                            </div>
+                        </div>
+                        <div class="stat-box">
+                            <div class="stat-box-icon">📊</div>
+                            <div class="stat-box-content">
+                                <div class="stat-box-value" id="stat-total-wrong">0</div>
+                                <div class="stat-box-label">总答错次数</div>
+                            </div>
+                        </div>
+                        <div class="stat-box">
+                            <div class="stat-box-icon">📅</div>
+                            <div class="stat-box-content">
+                                <div class="stat-box-value" id="stat-total-days">0</div>
+                                <div class="stat-box-label">总学习天数</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="summary-actions">
+                    <button id="view-mastered-btn" class="btn btn-primary">查看已掌握列表</button>
+                    <button id="view-error-btn" class="btn btn-secondary">查看错误列表</button>
+                    <button id="new-day-btn" class="btn btn-secondary">开始新的一天</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 已掌握列表页 -->
+    <div id="view-mastered-list" class="view">
+        <div class="container">
+            <header class="page-header">
+                <button id="back-btn" class="btn-back">← 返回</button>
+                <h1>已掌握单词</h1>
+            </header>
+            <div class="stats-info">
+                <span id="mastered-count">0</span> 个单词已掌握
+            </div>
+            <div id="mastered-list" class="word-list">
+                <!-- 已掌握单词将通过JS动态生成 -->
+            </div>
+        </div>
+    </div>
+
+    <!-- 错误单词列表页 -->
+    <div id="view-error-list" class="view">
+        <div class="container">
+            <header class="page-header">
+                <button id="error-back-btn" class="btn-back">← 返回</button>
+                <h1>错误单词</h1>
+            </header>
+            <div class="stats-info">
+                <span id="error-count">0</span> 个单词曾经答错
+            </div>
+            <div id="error-list" class="word-list">
+                <!-- 错误单词将通过JS动态生成 -->
+            </div>
+        </div>
+    </div>
+
+    <script src="src/js/storage.js"></script>
+    <script src="src/js/wordbank.js"></script>
+    <script src="src/js/scheduler.js"></script>
+    <script src="src/js/quiz.js"></script>
+    <script src="src/js/ui.js"></script>
+    <script src="src/js/main.js"></script>
+</body>
+</html>

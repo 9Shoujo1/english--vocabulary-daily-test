@@ -1,0 +1,5198 @@
+[
+  {
+    "word": "abnormal",
+    "translation": "反常的，变态的",
+    "phonetic": "/æbˈnɔːrml/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "abolish",
+    "translation": "废除，取消",
+    "phonetic": "/əˈbɑːlɪʃ/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "abort",
+    "translation": "中止，流产",
+    "phonetic": "/əˈbɔːrt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "abound",
+    "translation": "大量存在",
+    "phonetic": "/əˈbaʊnd/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "abrupt",
+    "translation": "突然的，生硬的",
+    "phonetic": "/əˈbrʌpt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "absurd",
+    "translation": "荒谬的",
+    "phonetic": "/əbˈsɜːrd/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "abundance",
+    "translation": "丰富，充裕",
+    "phonetic": "/əˈbʌndəns/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "abuse",
+    "translation": "滥用，虐待",
+    "phonetic": "/əˈbjuːs/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "academic",
+    "translation": "学术的，学院的",
+    "phonetic": "/ˌækəˈdemɪk/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "academy",
+    "translation": "学院，学会",
+    "phonetic": "/əˈkædəmi/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "accelerate",
+    "translation": "加速，促进",
+    "phonetic": "/əkˈseləreɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "access",
+    "translation": "通道，入口",
+    "phonetic": "/ˈækses/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "accessible",
+    "translation": "可接近的，易使用的",
+    "phonetic": "/əkˈsesəbl/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "accessory",
+    "translation": "附件，附属品",
+    "phonetic": "/əkˈsesəri/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "accommodate",
+    "translation": "容纳，使适应",
+    "phonetic": "/əˈkɑːmədeɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "accommodation",
+    "translation": "住宿，适应",
+    "phonetic": "/əˌkɑːməˈdeɪʃn/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "accompany",
+    "translation": "陪伴，伴随",
+    "phonetic": "/əˈkʌmpəni/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "accomplish",
+    "translation": "完成，实现",
+    "phonetic": "/əˈkʌmplɪʃ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "accord",
+    "translation": "一致，符合",
+    "phonetic": "/əˈkɔːrd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "accordance",
+    "translation": "一致，和谐",
+    "phonetic": "/əˈkɔːrdəns/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "accordingly",
+    "translation": "因此，相应地",
+    "phonetic": "/əˈkɔːrdɪŋli/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "accumulate",
+    "translation": "积累，堆积",
+    "phonetic": "/əˈkjuːmjəleɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "accumulation",
+    "translation": "积累，堆积物",
+    "phonetic": "/əˌkjuːmjəˈleɪʃn/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "accurate",
+    "translation": "准确的，精确的",
+    "phonetic": "/ˈækjərət/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "accuse",
+    "translation": "指责，指控",
+    "phonetic": "/əˈkjuːz/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "accustomed",
+    "translation": "习惯的，通常的",
+    "phonetic": "/əˈkʌstəmd/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "acknowledge",
+    "translation": "承认，致谢",
+    "phonetic": "/əkˈnɑːlɪdʒ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "acquaint",
+    "translation": "使熟悉，告知",
+    "phonetic": "/əˈkweɪnt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "acquaintance",
+    "translation": "熟人，了解",
+    "phonetic": "/əˈkweɪntəns/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "acquire",
+    "translation": "获得，学到",
+    "phonetic": "/əˈkwaɪər/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "acquisition",
+    "translation": "获得，收购",
+    "phonetic": "/ˌækwɪˈzɪʃn/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "activate",
+    "translation": "激活，启动",
+    "phonetic": "/ˈæktɪveɪt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "acute",
+    "translation": "尖锐的，敏锐的",
+    "phonetic": "/əˈkjuːt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "adapt",
+    "translation": "适应，改编",
+    "phonetic": "/əˈdæpt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "adaptation",
+    "translation": "适应，改编本",
+    "phonetic": "/ˌædæpˈteɪʃn/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "addict",
+    "translation": "使入迷，使上瘾",
+    "phonetic": "/ˈædɪkt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "adequate",
+    "translation": "足够的，适当的",
+    "phonetic": "/ˈædɪkwət/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "adhere",
+    "translation": "粘附，坚持",
+    "phonetic": "/ədˈhɪr/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "adjacent",
+    "translation": "邻近的，毗邻的",
+    "phonetic": "/əˈdʒeɪsnt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "adjust",
+    "translation": "调整，调节",
+    "phonetic": "/əˈdʒʌst/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "administration",
+    "translation": "管理，行政",
+    "phonetic": "/ədˌmɪnɪˈstreɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "administrative",
+    "translation": "管理的，行政的",
+    "phonetic": "/ədˈmɪnɪstreɪtɪv/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "admire",
+    "translation": "钦佩，赞赏",
+    "phonetic": "/ədˈmaɪər/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "admission",
+    "translation": "准许进入，承认",
+    "phonetic": "/ədˈmɪʃn/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "adolescent",
+    "translation": "青少年",
+    "phonetic": "/ˌædəˈlesnt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "adopt",
+    "translation": "收养，采用",
+    "phonetic": "/əˈdɑːpt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "adore",
+    "translation": "崇拜，爱慕",
+    "phonetic": "/əˈdɔːr/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "advance",
+    "translation": "前进，提前",
+    "phonetic": "/ədˈvæns/",
+    "partOfSpeech": "n./v./adj."
+  },
+  {
+    "word": "advantage",
+    "translation": "优势，利益",
+    "phonetic": "/ədˈvæntɪdʒ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "advantageous",
+    "translation": "有利的",
+    "phonetic": "/ˌædvənˈteɪdʒəs/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "adventure",
+    "translation": "冒险，奇遇",
+    "phonetic": "/ədˈventʃər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "adverse",
+    "translation": "不利的，相反的",
+    "phonetic": "/ədˈvɜːrs/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "advertise",
+    "translation": "做广告，宣传",
+    "phonetic": "/ˈædvərtaɪz/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "advocate",
+    "translation": "提倡，拥护",
+    "phonetic": "/ˈædvəkət/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "aerial",
+    "translation": "空中的，航空的",
+    "phonetic": "/ˈeriəl/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "aesthetic",
+    "translation": "美学的，审美的",
+    "phonetic": "/iːsˈθetɪk/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "affiliate",
+    "translation": "使附属，接纳为成员",
+    "phonetic": "/əˈfɪlieɪt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "affirm",
+    "translation": "断言，证实",
+    "phonetic": "/əˈfɜːrm/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "afflict",
+    "translation": "使痛苦，折磨",
+    "phonetic": "/əˈflɪkt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "agency",
+    "translation": "代理处，机构",
+    "phonetic": "/ˈeɪdʒənsi/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "agenda",
+    "translation": "议程，日程表",
+    "phonetic": "/əˈdʒendə/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "agent",
+    "translation": "代理人，特工",
+    "phonetic": "/ˈeɪdʒənt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "aggravate",
+    "translation": "加重，恶化",
+    "phonetic": "/ˈæɡrəveɪt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "aggressive",
+    "translation": "侵略的，进取的",
+    "phonetic": "/əˈɡresɪv/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "agitate",
+    "translation": "搅动，煽动",
+    "phonetic": "/ˈædʒɪteɪt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "agony",
+    "translation": "极度痛苦",
+    "phonetic": "/ˈæɡəni/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "agreeable",
+    "translation": "令人愉快的，易相处的",
+    "phonetic": "/əˈɡriːəbl/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "agreement",
+    "translation": "协议，同意",
+    "phonetic": "/əˈɡriːmənt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "agricultural",
+    "translation": "农业的",
+    "phonetic": "/ˌæɡrɪˈkʌltʃərəl/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "agriculture",
+    "translation": "农业，农学",
+    "phonetic": "/ˈæɡrɪkʌltʃər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "aid",
+    "translation": "援助，帮助",
+    "phonetic": "/eɪd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "ailment",
+    "translation": "小病，不适",
+    "phonetic": "/ˈeɪlmənt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "aim",
+    "translation": "瞄准，目的",
+    "phonetic": "/eɪm/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "air-conditioning",
+    "translation": "空调",
+    "phonetic": "/ˈerkəndɪʃənɪŋ/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "aircraft",
+    "translation": "飞机，航空器",
+    "phonetic": "/ˈeərkrɑːft/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "airline",
+    "translation": "航空公司",
+    "phonetic": "/ˈeərlaɪn/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "airplane",
+    "translation": "飞机",
+    "phonetic": "/ˈeərpleɪn/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "airport",
+    "translation": "机场",
+    "phonetic": "/ˈeərpɔːrt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "alarm",
+    "translation": "警报，惊恐",
+    "phonetic": "/əˈlɑːrm/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "album",
+    "translation": "相册，专辑",
+    "phonetic": "/ˈælbəm/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "alcohol",
+    "translation": "酒精，酒",
+    "phonetic": "/ˈælkəhɔːl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "alert",
+    "translation": "警惕的，警报",
+    "phonetic": "/əˈlɜːrt/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "alien",
+    "translation": "外星人，外国的",
+    "phonetic": "/ˈeɪliən/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "alike",
+    "translation": "相似的，同样的",
+    "phonetic": "/əˈlaɪk/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "alive",
+    "translation": "活着的，有活力的",
+    "phonetic": "/əˈlaɪv/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "allergic",
+    "translation": "过敏的",
+    "phonetic": "/əˈlɜːrdʒɪk/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "alleviate",
+    "translation": "减轻，缓和",
+    "phonetic": "/əˈliːvieɪt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "alliance",
+    "translation": "联盟，联合",
+    "phonetic": "/əˈlaɪəns/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "allocate",
+    "translation": "分配，拨给",
+    "phonetic": "/ˈæləkeɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "allowance",
+    "translation": "津贴，允许",
+    "phonetic": "/əˈlaʊəns/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "ally",
+    "translation": "同盟国，结盟",
+    "phonetic": "/ˈælaɪ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "alongside",
+    "translation": "在旁边，与...一起",
+    "phonetic": "/əˈlɒŋsaɪd/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "alphabet",
+    "translation": "字母表",
+    "phonetic": "/ˈælfəbet/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "alter",
+    "translation": "改变，修改",
+    "phonetic": "/ˈɔːltər/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "alternate",
+    "translation": "交替的，轮流的",
+    "phonetic": "/ˈɔːltərneɪt/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "alternative",
+    "translation": "供选择的，替代的",
+    "phonetic": "/ɔːlˈtɜːrnətɪv/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "altitude",
+    "translation": "高度，海拔",
+    "phonetic": "/ˈæltɪtuːd/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "aluminum",
+    "translation": "铝",
+    "phonetic": "/ˌæljuˈmɪniəm/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "amaze",
+    "translation": "使吃惊，使惊叹",
+    "phonetic": "/əˈmeɪz/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "ambassador",
+    "translation": "大使",
+    "phonetic": "/æmˈbæsədər/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "ambiguous",
+    "translation": "模棱两可的",
+    "phonetic": "/æmˈbɪɡjuəs/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "ambition",
+    "translation": "野心，雄心",
+    "phonetic": "/æmˈbɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "ambitious",
+    "translation": "有雄心的",
+    "phonetic": "/æmˈbɪʃəs/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "ambulance",
+    "translation": "救护车",
+    "phonetic": "/ˈæmbjələns/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "amend",
+    "translation": "修改，修正",
+    "phonetic": "/əˈmend/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "amiable",
+    "translation": "和蔼可亲的",
+    "phonetic": "/ˈeɪmiəbl/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "ample",
+    "translation": "充足的",
+    "phonetic": "/ˈæmpl/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "amplify",
+    "translation": "放大，增强",
+    "phonetic": "/ˈæmplɪfaɪ/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "amuse",
+    "translation": "逗乐，使娱乐",
+    "phonetic": "/əˈmjuːz/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "analog",
+    "translation": "模拟的，类似的",
+    "phonetic": "/ˈænəlɔːɡ/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "analogy",
+    "translation": "类比，相似",
+    "phonetic": "/əˈnælədʒi/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "analyze",
+    "translation": "分析，分解",
+    "phonetic": "/ˈænəlaɪz/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "analysis",
+    "translation": "分析，分解",
+    "phonetic": "/əˈnæləsɪs/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "ancestor",
+    "translation": "祖先，祖宗",
+    "phonetic": "/ˈænsestər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "anchor",
+    "translation": "锚，抛锚",
+    "phonetic": "/ˈæŋkər/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "ancient",
+    "translation": "古代的，古老的",
+    "phonetic": "/ˈeɪnʃənt/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "angle",
+    "translation": "角度，角",
+    "phonetic": "/ˈæŋɡl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "anguish",
+    "translation": "极度痛苦",
+    "phonetic": "/ˈæŋɡwɪʃ/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "animal",
+    "translation": "动物",
+    "phonetic": "/ˈænɪml/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "ankle",
+    "translation": "脚踝",
+    "phonetic": "/ˈæŋkl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "anniversary",
+    "translation": "周年纪念",
+    "phonetic": "/ˌænɪˈvɜːrsəri/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "announce",
+    "translation": "宣布，通告",
+    "phonetic": "/əˈnaʊns/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "annoy",
+    "translation": "使烦恼，打扰",
+    "phonetic": "/əˈnɔɪ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "annual",
+    "translation": "每年的，年度的",
+    "phonetic": "/ˈænjuəl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "anonymous",
+    "translation": "匿名的",
+    "phonetic": "/əˈnɒnɪməs/",
+    "partOfSpeech": ""
+  },
+  {
+    "word": "baby",
+    "translation": "婴儿",
+    "phonetic": "/ˈbeɪbi/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bachelor",
+    "translation": "单身汉，学士",
+    "phonetic": "/ˈbætʃələr/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "back",
+    "translation": "背部，后面的",
+    "phonetic": "/bæk/",
+    "partOfSpeech": "n./adj./adv."
+  },
+  {
+    "word": "background",
+    "translation": "背景",
+    "phonetic": "/ˈbækɡraʊnd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "backward",
+    "translation": "向后的",
+    "phonetic": "/ˈbækwərd/",
+    "partOfSpeech": "adj./adv."
+  },
+  {
+    "word": "bacon",
+    "translation": "咸肉",
+    "phonetic": "/ˈbeɪkən/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bacteria",
+    "translation": "细菌",
+    "phonetic": "/bækˈtɪriə/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bad",
+    "translation": "坏的",
+    "phonetic": "/bæd/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "badge",
+    "translation": "徽章",
+    "phonetic": "/bædʒ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "badly",
+    "translation": "严重地",
+    "phonetic": "/ˈbædli/",
+    "partOfSpeech": "adv."
+  },
+  {
+    "word": "badminton",
+    "translation": "羽毛球",
+    "phonetic": "/ˈbædmɪntən/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bag",
+    "translation": "包",
+    "phonetic": "/bæɡ/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "baggage",
+    "translation": "行李",
+    "phonetic": "/ˈbæɡɪdʒ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bake",
+    "translation": "烘烤",
+    "phonetic": "/beɪk/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "bakery",
+    "translation": "面包店",
+    "phonetic": "/ˈbeɪkəri/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "balance",
+    "translation": "平衡",
+    "phonetic": "/ˈbæləns/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "balcony",
+    "translation": "阳台",
+    "phonetic": "/ˈbælkəni/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bald",
+    "translation": "秃头的",
+    "phonetic": "/bɔːld/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "ball",
+    "translation": "球",
+    "phonetic": "/bɔːl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "ballet",
+    "translation": "芭蕾舞",
+    "phonetic": "/bæˈleɪ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "balloon",
+    "translation": "气球",
+    "phonetic": "/bəˈluːn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "ballot",
+    "translation": "投票",
+    "phonetic": "/ˈbælət/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "banana",
+    "translation": "香蕉",
+    "phonetic": "/bəˈnænə/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "band",
+    "translation": "乐队，带",
+    "phonetic": "/bænd/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bandage",
+    "translation": "绷带",
+    "phonetic": "/ˈbændɪdʒ/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bank",
+    "translation": "银行，岸",
+    "phonetic": "/bæŋk/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bankrupt",
+    "translation": "破产的",
+    "phonetic": "/ˈbæŋkrʌpt/",
+    "partOfSpeech": "adj./v."
+  },
+  {
+    "word": "banner",
+    "translation": "横幅",
+    "phonetic": "/ˈbænər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "banquet",
+    "translation": "宴会",
+    "phonetic": "/ˈbæŋkwɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bar",
+    "translation": "酒吧，条",
+    "phonetic": "/bɑːr/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "barbecue",
+    "translation": "烧烤",
+    "phonetic": "/ˈbɑːrbɪkjuː/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "barber",
+    "translation": "理发师",
+    "phonetic": "/ˈbɑːrbər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bare",
+    "translation": "赤裸的",
+    "phonetic": "/ber/",
+    "partOfSpeech": "adj./v."
+  },
+  {
+    "word": "barely",
+    "translation": "仅仅",
+    "phonetic": "/ˈberli/",
+    "partOfSpeech": "adv."
+  },
+  {
+    "word": "bargain",
+    "translation": "便宜货",
+    "phonetic": "/ˈbɑːrɡɪn/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bark",
+    "translation": "吠叫",
+    "phonetic": "/bɑːrk/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "barn",
+    "translation": "谷仓",
+    "phonetic": "/bɑːrn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "barrel",
+    "translation": "桶",
+    "phonetic": "/ˈbærəl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "barren",
+    "translation": "贫瘠的",
+    "phonetic": "/ˈbærən/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "barrier",
+    "translation": "障碍",
+    "phonetic": "/ˈbæriər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "base",
+    "translation": "基础",
+    "phonetic": "/beɪs/",
+    "partOfSpeech": "n./v./adj."
+  },
+  {
+    "word": "baseball",
+    "translation": "棒球",
+    "phonetic": "/ˈbeɪsbɔːl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "basement",
+    "translation": "地下室",
+    "phonetic": "/ˈbeɪsmənt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "basic",
+    "translation": "基本的",
+    "phonetic": "/ˈbeɪsɪk/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "basin",
+    "translation": "盆地",
+    "phonetic": "/ˈbeɪsn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "basis",
+    "translation": "基础",
+    "phonetic": "/ˈbeɪsɪs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "basket",
+    "translation": "篮子",
+    "phonetic": "/ˈbæskɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "basketball",
+    "translation": "篮球",
+    "phonetic": "/ˈbæskɪtbɔːl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bat",
+    "translation": "蝙蝠，球拍",
+    "phonetic": "/bæt/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "batch",
+    "translation": "一批",
+    "phonetic": "/bætʃ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bath",
+    "translation": "洗澡",
+    "phonetic": "/bæθ/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bathe",
+    "translation": "洗澡",
+    "phonetic": "/beɪð/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "bathroom",
+    "translation": "浴室",
+    "phonetic": "/ˈbæθruːm/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "battery",
+    "translation": "电池",
+    "phonetic": "/ˈbætri/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "battle",
+    "translation": "战斗",
+    "phonetic": "/ˈbætl/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bay",
+    "translation": "海湾",
+    "phonetic": "/beɪ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "be",
+    "translation": "是",
+    "phonetic": "/biː/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "beach",
+    "translation": "海滩",
+    "phonetic": "/biːtʃ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "beam",
+    "translation": "光束",
+    "phonetic": "/biːm/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bean",
+    "translation": "豆",
+    "phonetic": "/biːn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bear",
+    "translation": "熊，忍受",
+    "phonetic": "/ber/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "beard",
+    "translation": "胡须",
+    "phonetic": "/bɪrd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "beast",
+    "translation": "野兽",
+    "phonetic": "/biːst/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "beat",
+    "translation": "打",
+    "phonetic": "/biːt/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "beautiful",
+    "translation": "美丽的",
+    "phonetic": "/ˈbjuːtɪfl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "beauty",
+    "translation": "美丽",
+    "phonetic": "/ˈbjuːti/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "because",
+    "translation": "因为",
+    "phonetic": "/bɪˈkɔːz/",
+    "partOfSpeech": "conj."
+  },
+  {
+    "word": "become",
+    "translation": "变成",
+    "phonetic": "/bɪˈkʌm/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "bed",
+    "translation": "床",
+    "phonetic": "/bed/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bee",
+    "translation": "蜜蜂",
+    "phonetic": "/biː/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "beef",
+    "translation": "牛肉",
+    "phonetic": "/biːf/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "beer",
+    "translation": "啤酒",
+    "phonetic": "/bɪr/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "beetle",
+    "translation": "甲虫",
+    "phonetic": "/ˈbiːtl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "before",
+    "translation": "在...之前",
+    "phonetic": "/bɪˈfɔːr/",
+    "partOfSpeech": "prep./adv./conj."
+  },
+  {
+    "word": "beg",
+    "translation": "乞求",
+    "phonetic": "/beɡ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "begin",
+    "translation": "开始",
+    "phonetic": "/bɪˈɡɪn/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "beginning",
+    "translation": "开始",
+    "phonetic": "/bɪˈɡɪnɪŋ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "behalf",
+    "translation": "代表",
+    "phonetic": "/bɪˈhæf/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "behave",
+    "translation": "表现",
+    "phonetic": "/bɪˈheɪv/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "behavior",
+    "translation": "行为",
+    "phonetic": "/bɪˈheɪvjər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "behind",
+    "translation": "在...后面",
+    "phonetic": "/bɪˈhaɪnd/",
+    "partOfSpeech": "prep./adv."
+  },
+  {
+    "word": "being",
+    "translation": "存在",
+    "phonetic": "/ˈbiːɪŋ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "belief",
+    "translation": "信仰",
+    "phonetic": "/bɪˈliːf/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "believe",
+    "translation": "相信",
+    "phonetic": "/bɪˈliːv/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "bell",
+    "translation": "铃",
+    "phonetic": "/bel/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "belly",
+    "translation": "腹部",
+    "phonetic": "/ˈbeli/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "belong",
+    "translation": "属于",
+    "phonetic": "/bɪˈlɒŋ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "beloved",
+    "translation": "心爱的",
+    "phonetic": "/bɪˈlʌvd/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "below",
+    "translation": "在...下面",
+    "phonetic": "/bɪˈloʊ/",
+    "partOfSpeech": "prep./adv."
+  },
+  {
+    "word": "belt",
+    "translation": "腰带",
+    "phonetic": "/belt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bench",
+    "translation": "长椅",
+    "phonetic": "/bentʃ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bend",
+    "translation": "弯曲",
+    "phonetic": "/bend/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "beneath",
+    "translation": "在...之下",
+    "phonetic": "/bɪˈniːθ/",
+    "partOfSpeech": "prep./adv."
+  },
+  {
+    "word": "beneficial",
+    "translation": "有益的",
+    "phonetic": "/ˌbenɪˈfɪʃl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "benefit",
+    "translation": "利益",
+    "phonetic": "/ˈbenɪfɪt/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bent",
+    "translation": "弯曲的",
+    "phonetic": "/bent/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "berry",
+    "translation": "浆果",
+    "phonetic": "/ˈberi/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "beside",
+    "translation": "在...旁边",
+    "phonetic": "/bɪˈsaɪd/",
+    "partOfSpeech": "prep."
+  },
+  {
+    "word": "besides",
+    "translation": "此外",
+    "phonetic": "/bɪˈsaɪdz/",
+    "partOfSpeech": "prep./adv."
+  },
+  {
+    "word": "best",
+    "translation": "最好的",
+    "phonetic": "/best/",
+    "partOfSpeech": "adj./adv./n."
+  },
+  {
+    "word": "bet",
+    "translation": "打赌",
+    "phonetic": "/bet/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "betray",
+    "translation": "背叛",
+    "phonetic": "/bɪˈtreɪ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "better",
+    "translation": "更好的",
+    "phonetic": "/ˈbetər/",
+    "partOfSpeech": "adj./adv./v."
+  },
+  {
+    "word": "between",
+    "translation": "在...之间",
+    "phonetic": "/bɪˈtwiːn/",
+    "partOfSpeech": "prep./adv."
+  },
+  {
+    "word": "beyond",
+    "translation": "在...之外",
+    "phonetic": "/bɪˈjɑːnd/",
+    "partOfSpeech": "prep./adv."
+  },
+  {
+    "word": "bias",
+    "translation": "偏见",
+    "phonetic": "/ˈbaɪəs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bible",
+    "translation": "圣经",
+    "phonetic": "/ˈbaɪbl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bicycle",
+    "translation": "自行车",
+    "phonetic": "/ˈbaɪsɪkl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bid",
+    "translation": "出价",
+    "phonetic": "/bɪd/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "big",
+    "translation": "大的",
+    "phonetic": "/bɪɡ/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "bike",
+    "translation": "自行车",
+    "phonetic": "/baɪk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bill",
+    "translation": "账单",
+    "phonetic": "/bɪl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "billion",
+    "translation": "十亿",
+    "phonetic": "/ˈbɪljən/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bind",
+    "translation": "捆绑",
+    "phonetic": "/baɪnd/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "biology",
+    "translation": "生物学",
+    "phonetic": "/baɪˈɒlədʒi/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bird",
+    "translation": "鸟",
+    "phonetic": "/bɜːrd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "birth",
+    "translation": "出生",
+    "phonetic": "/bɜːrθ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "birthday",
+    "translation": "生日",
+    "phonetic": "/ˈbɜːrθdeɪ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "biscuit",
+    "translation": "饼干",
+    "phonetic": "/ˈbɪskɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bit",
+    "translation": "一点",
+    "phonetic": "/bɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bite",
+    "translation": "咬",
+    "phonetic": "/baɪt/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "bitter",
+    "translation": "苦的",
+    "phonetic": "/ˈbɪtər/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "bizarre",
+    "translation": "奇异的",
+    "phonetic": "/bɪˈzɑːr/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "black",
+    "translation": "黑色的",
+    "phonetic": "/blæk/",
+    "partOfSpeech": "adj./n."
+  },
+  {
+    "word": "blackboard",
+    "translation": "黑板",
+    "phonetic": "/ˈblækbɔːrd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "blame",
+    "translation": "责怪",
+    "phonetic": "/bleɪm/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "blank",
+    "translation": "空白的",
+    "phonetic": "/blæŋk/",
+    "partOfSpeech": "adj./n."
+  },
+  {
+    "word": "blanket",
+    "translation": "毯子",
+    "phonetic": "/ˈblæŋkɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "blast",
+    "translation": "爆炸",
+    "phonetic": "/blæst/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "blaze",
+    "translation": "火焰",
+    "phonetic": "/bleɪz/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bleak",
+    "translation": "荒凉的",
+    "phonetic": "/bliːk/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "bleed",
+    "translation": "流血",
+    "phonetic": "/bliːd/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "blend",
+    "translation": "混合",
+    "phonetic": "/blend/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "bless",
+    "translation": "祝福",
+    "phonetic": "/bles/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "blind",
+    "translation": "盲的",
+    "phonetic": "/blaɪnd/",
+    "partOfSpeech": "adj./n."
+  },
+  {
+    "word": "block",
+    "translation": "块，阻止",
+    "phonetic": "/blɑːk/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "blood",
+    "translation": "血",
+    "phonetic": "/blʌd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bloom",
+    "translation": "开花",
+    "phonetic": "/bluːm/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "blossom",
+    "translation": "开花",
+    "phonetic": "/ˈblɑːsəm/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "blouse",
+    "translation": "女衬衫",
+    "phonetic": "/blaʊz/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "blue",
+    "translation": "蓝色的",
+    "phonetic": "/bluː/",
+    "partOfSpeech": "adj./n."
+  },
+  {
+    "word": "blur",
+    "translation": "模糊",
+    "phonetic": "/blɜːr/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "blush",
+    "translation": "脸红",
+    "phonetic": "/blʌʃ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "board",
+    "translation": "木板",
+    "phonetic": "/bɔːrd/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "boast",
+    "translation": "吹嘘",
+    "phonetic": "/boʊst/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "boat",
+    "translation": "船",
+    "phonetic": "/boʊt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "body",
+    "translation": "身体",
+    "phonetic": "/ˈbɒdi/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "boil",
+    "translation": "煮沸",
+    "phonetic": "/bɔɪl/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "bold",
+    "translation": "大胆的",
+    "phonetic": "/boʊld/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "bolt",
+    "translation": "螺栓",
+    "phonetic": "/boʊlt/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bomb",
+    "translation": "炸弹",
+    "phonetic": "/bɑːm/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bond",
+    "translation": "纽带",
+    "phonetic": "/bɑːnd/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bone",
+    "translation": "骨头",
+    "phonetic": "/boʊn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "book",
+    "translation": "书",
+    "phonetic": "/bʊk/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "boom",
+    "translation": "繁荣",
+    "phonetic": "/buːm/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "boost",
+    "translation": "促进",
+    "phonetic": "/buːst/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "boot",
+    "translation": "靴子",
+    "phonetic": "/buːt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "border",
+    "translation": "边界",
+    "phonetic": "/ˈbɔːrdər/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bore",
+    "translation": "钻孔",
+    "phonetic": "/bɔːr/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "born",
+    "translation": "出生的",
+    "phonetic": "/bɔːrn/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "borrow",
+    "translation": "借",
+    "phonetic": "/ˈbɒroʊ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "bosom",
+    "translation": "胸怀",
+    "phonetic": "/ˈbʊzəm/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "boss",
+    "translation": "老板",
+    "phonetic": "/bɒs/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "both",
+    "translation": "两者",
+    "phonetic": "/boʊθ/",
+    "partOfSpeech": "adj./pron."
+  },
+  {
+    "word": "bother",
+    "translation": "打扰",
+    "phonetic": "/ˈbɒðər/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "bottle",
+    "translation": "瓶子",
+    "phonetic": "/ˈbɑːtl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bottom",
+    "translation": "底部",
+    "phonetic": "/ˈbɑːtəm/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "bounce",
+    "translation": "反弹",
+    "phonetic": "/baʊns/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "bound",
+    "translation": "有义务的",
+    "phonetic": "/baʊnd/",
+    "partOfSpeech": "adj./v."
+  },
+  {
+    "word": "boundary",
+    "translation": "边界",
+    "phonetic": "/ˈbaʊndri/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bow",
+    "translation": "鞠躬",
+    "phonetic": "/baʊ/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "bowl",
+    "translation": "碗",
+    "phonetic": "/boʊl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "box",
+    "translation": "盒子",
+    "phonetic": "/bɑːks/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "boy",
+    "translation": "男孩",
+    "phonetic": "/bɔɪ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "brain",
+    "translation": "大脑",
+    "phonetic": "/breɪn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "brake",
+    "translation": "刹车",
+    "phonetic": "/breɪk/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "branch",
+    "translation": "树枝",
+    "phonetic": "/bræntʃ/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "brand",
+    "translation": "品牌",
+    "phonetic": "/brænd/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "brandy",
+    "translation": "白兰地",
+    "phonetic": "/ˈbrændi/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "brass",
+    "translation": "黄铜",
+    "phonetic": "/bræs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "brave",
+    "translation": "勇敢的",
+    "phonetic": "/breɪv/",
+    "partOfSpeech": "adj./v."
+  },
+  {
+    "word": "bread",
+    "translation": "面包",
+    "phonetic": "/bred/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "breadth",
+    "translation": "宽度",
+    "phonetic": "/bredθ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "break",
+    "translation": "打破",
+    "phonetic": "/breɪk/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "breakdown",
+    "translation": "崩溃",
+    "phonetic": "/ˈbreɪkdaʊn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "breakfast",
+    "translation": "早餐",
+    "phonetic": "/ˈbrekfəst/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "breast",
+    "translation": "胸部",
+    "phonetic": "/brest/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "breath",
+    "translation": "呼吸",
+    "phonetic": "/breθ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "breathe",
+    "translation": "呼吸",
+    "phonetic": "/briːð/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "breed",
+    "translation": "繁殖",
+    "phonetic": "/briːd/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "brick",
+    "translation": "砖",
+    "phonetic": "/brɪk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bride",
+    "translation": "新娘",
+    "phonetic": "/braɪd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bridge",
+    "translation": "桥梁",
+    "phonetic": "/brɪdʒ/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "brief",
+    "translation": "简短的",
+    "phonetic": "/briːf/",
+    "partOfSpeech": "adj./n./v."
+  },
+  {
+    "word": "bright",
+    "translation": "明亮的",
+    "phonetic": "/braɪt/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "brilliant",
+    "translation": "杰出的",
+    "phonetic": "/ˈbrɪliənt/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "brim",
+    "translation": "边缘",
+    "phonetic": "/brɪm/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bring",
+    "translation": "带来",
+    "phonetic": "/brɪŋ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "brisk",
+    "translation": "轻快的",
+    "phonetic": "/brɪsk/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "brittle",
+    "translation": "易碎的",
+    "phonetic": "/ˈbrɪtl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "broad",
+    "translation": "宽阔的",
+    "phonetic": "/brɔːd/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "broadcast",
+    "translation": "广播",
+    "phonetic": "/ˈbrɔːdkæst/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "broken",
+    "translation": "破碎的",
+    "phonetic": "/ˈbroʊkən/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "bronze",
+    "translation": "青铜",
+    "phonetic": "/brɑːnz/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "brook",
+    "translation": "小溪",
+    "phonetic": "/brʊk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "broom",
+    "translation": "扫帚",
+    "phonetic": "/bruːm/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "brother",
+    "translation": "兄弟",
+    "phonetic": "/ˈbrʌðər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "brow",
+    "translation": "眉毛",
+    "phonetic": "/braʊ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "brown",
+    "translation": "褐色的",
+    "phonetic": "/braʊn/",
+    "partOfSpeech": "adj./n."
+  },
+  {
+    "word": "brush",
+    "translation": "刷子",
+    "phonetic": "/brʌʃ/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "brutal",
+    "translation": "残忍的",
+    "phonetic": "/ˈbruːtl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "bubble",
+    "translation": "气泡",
+    "phonetic": "/ˈbʌbl/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bucket",
+    "translation": "水桶",
+    "phonetic": "/ˈbʌkɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bud",
+    "translation": "芽",
+    "phonetic": "/bʌd/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "budget",
+    "translation": "预算",
+    "phonetic": "/ˈbʌdʒɪt/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "buffalo",
+    "translation": "水牛",
+    "phonetic": "/ˈbʌfəloʊ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "buffer",
+    "translation": "缓冲器",
+    "phonetic": "/ˈbʌfər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "buffet",
+    "translation": "自助餐",
+    "phonetic": "/bəˈfeɪ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bug",
+    "translation": "虫子",
+    "phonetic": "/bʌɡ/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "build",
+    "translation": "建造",
+    "phonetic": "/bɪld/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "building",
+    "translation": "建筑物",
+    "phonetic": "/ˈbɪldɪŋ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bulb",
+    "translation": "灯泡",
+    "phonetic": "/bʌlb/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bulk",
+    "translation": "大部分",
+    "phonetic": "/bʌlk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bull",
+    "translation": "公牛",
+    "phonetic": "/bʊl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bullet",
+    "translation": "子弹",
+    "phonetic": "/ˈbʊlɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bully",
+    "translation": "欺凌者",
+    "phonetic": "/ˈbʊli/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bump",
+    "translation": "碰撞",
+    "phonetic": "/bʌmp/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "bunch",
+    "translation": "束",
+    "phonetic": "/bʌntʃ/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bundle",
+    "translation": "捆",
+    "phonetic": "/ˈbʌndl/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "burden",
+    "translation": "负担",
+    "phonetic": "/ˈbɜːrdn/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "bureau",
+    "translation": "局",
+    "phonetic": "/ˈbjʊroʊ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "burn",
+    "translation": "燃烧",
+    "phonetic": "/bɜːrn/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "burst",
+    "translation": "爆炸",
+    "phonetic": "/bɜːrst/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "bury",
+    "translation": "埋葬",
+    "phonetic": "/ˈberi/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "bus",
+    "translation": "公共汽车",
+    "phonetic": "/bʌs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "bush",
+    "translation": "灌木",
+    "phonetic": "/bʊʃ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "business",
+    "translation": "生意",
+    "phonetic": "/ˈbɪznəs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "busy",
+    "translation": "忙碌的",
+    "phonetic": "/ˈbɪzi/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "but",
+    "translation": "但是",
+    "phonetic": "/bʌt/",
+    "partOfSpeech": "conj./prep."
+  },
+  {
+    "word": "butcher",
+    "translation": "屠夫",
+    "phonetic": "/ˈbʊtʃər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "butter",
+    "translation": "黄油",
+    "phonetic": "/ˈbʌtər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "butterfly",
+    "translation": "蝴蝶",
+    "phonetic": "/ˈbʌtərflaɪ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "button",
+    "translation": "按钮",
+    "phonetic": "/ˈbʌtn/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "buy",
+    "translation": "买",
+    "phonetic": "/baɪ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "by",
+    "translation": "通过",
+    "phonetic": "/baɪ/",
+    "partOfSpeech": "prep./adv."
+  },
+  {
+    "word": "bypass",
+    "translation": "绕过",
+    "phonetic": "/ˈbaɪpæs/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "cab",
+    "translation": "出租车",
+    "phonetic": "/kæb/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cabbage",
+    "translation": "卷心菜",
+    "phonetic": "/ˈkæbɪdʒ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cabin",
+    "translation": "小屋",
+    "phonetic": "/ˈkæbɪn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cabinet",
+    "translation": "内阁",
+    "phonetic": "/ˈkæbɪnət/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cable",
+    "translation": "电缆",
+    "phonetic": "/ˈkeɪbl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cafe",
+    "translation": "咖啡馆",
+    "phonetic": "/kæˈfeɪ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cage",
+    "translation": "笼子",
+    "phonetic": "/keɪdʒ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cake",
+    "translation": "蛋糕",
+    "phonetic": "/keɪk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "calculate",
+    "translation": "计算",
+    "phonetic": "/ˈkælkjuleɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "calculator",
+    "translation": "计算器",
+    "phonetic": "/ˈkælkjuleɪtər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "calendar",
+    "translation": "日历",
+    "phonetic": "/ˈkæləndər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "calf",
+    "translation": "小牛",
+    "phonetic": "/kælf/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "call",
+    "translation": "打电话",
+    "phonetic": "/kɔːl/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "calm",
+    "translation": "平静的",
+    "phonetic": "/kɑːm/",
+    "partOfSpeech": "adj./v."
+  },
+  {
+    "word": "calorie",
+    "translation": "卡路里",
+    "phonetic": "/ˈkæləri/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "camel",
+    "translation": "骆驼",
+    "phonetic": "/ˈkæml/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "camera",
+    "translation": "相机",
+    "phonetic": "/ˈkæmərə/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "camp",
+    "translation": "露营",
+    "phonetic": "/kæmp/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "campaign",
+    "translation": "运动",
+    "phonetic": "/kæmˈpeɪn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "campus",
+    "translation": "校园",
+    "phonetic": "/ˈkæmpəs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "can",
+    "translation": "能，罐头",
+    "phonetic": "/kæn/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "canal",
+    "translation": "运河",
+    "phonetic": "/kəˈnæl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cancel",
+    "translation": "取消",
+    "phonetic": "/ˈkænsl/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "cancer",
+    "translation": "癌症",
+    "phonetic": "/ˈkænsər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "candidate",
+    "translation": "候选人",
+    "phonetic": "/ˈkændɪdeɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "candle",
+    "translation": "蜡烛",
+    "phonetic": "/ˈkændl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "candy",
+    "translation": "糖果",
+    "phonetic": "/ˈkændi/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cannon",
+    "translation": "大炮",
+    "phonetic": "/ˈkænən/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "canoe",
+    "translation": "独木舟",
+    "phonetic": "/kəˈnuː/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "canteen",
+    "translation": "食堂",
+    "phonetic": "/kænˈtiːn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "canvas",
+    "translation": "帆布",
+    "phonetic": "/ˈkænvəs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cap",
+    "translation": "帽子",
+    "phonetic": "/kæp/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "capable",
+    "translation": "有能力的",
+    "phonetic": "/ˈkeɪpəbl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "capacity",
+    "translation": "容量",
+    "phonetic": "/kəˈpæsəti/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "capital",
+    "translation": "首都",
+    "phonetic": "/ˈkæpɪtl/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "capitalism",
+    "translation": "资本主义",
+    "phonetic": "/ˈkæpɪtəlɪzəm/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "capsule",
+    "translation": "胶囊",
+    "phonetic": "/ˈkæpsjuːl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "captain",
+    "translation": "队长",
+    "phonetic": "/ˈkæptɪn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "caption",
+    "translation": "标题",
+    "phonetic": "/ˈkæpʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "capture",
+    "translation": "捕获",
+    "phonetic": "/ˈkæptʃər/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "car",
+    "translation": "汽车",
+    "phonetic": "/kɑːr/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "carbon",
+    "translation": "碳",
+    "phonetic": "/ˈkɑːrbən/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "card",
+    "translation": "卡片",
+    "phonetic": "/kɑːrd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cardboard",
+    "translation": "纸板",
+    "phonetic": "/ˈkɑːrdbɔːrd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "care",
+    "translation": "关心",
+    "phonetic": "/ker/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "career",
+    "translation": "职业",
+    "phonetic": "/kəˈrɪr/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "careful",
+    "translation": "小心的",
+    "phonetic": "/ˈkerfl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "careless",
+    "translation": "粗心的",
+    "phonetic": "/ˈkerləs/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cargo",
+    "translation": "货物",
+    "phonetic": "/ˈkɑːrɡoʊ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "carpet",
+    "translation": "地毯",
+    "phonetic": "/ˈkɑːrpɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "carriage",
+    "translation": "马车",
+    "phonetic": "/ˈkærɪdʒ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "carrot",
+    "translation": "胡萝卜",
+    "phonetic": "/ˈkærət/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "carry",
+    "translation": "携带",
+    "phonetic": "/ˈkæri/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "cart",
+    "translation": "手推车",
+    "phonetic": "/kɑːrt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cartoon",
+    "translation": "卡通",
+    "phonetic": "/kɑːrˈtuːn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "carve",
+    "translation": "雕刻",
+    "phonetic": "/kɑːrv/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "case",
+    "translation": "情况，箱子",
+    "phonetic": "/keɪs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cash",
+    "translation": "现金",
+    "phonetic": "/kæʃ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cashier",
+    "translation": "收银员",
+    "phonetic": "/kæˈʃɪr/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cassette",
+    "translation": "磁带",
+    "phonetic": "/kəˈset/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cast",
+    "translation": "投掷",
+    "phonetic": "/kæst/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "castle",
+    "translation": "城堡",
+    "phonetic": "/ˈkæsl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "casual",
+    "translation": "随意的",
+    "phonetic": "/ˈkæʒuəl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cat",
+    "translation": "猫",
+    "phonetic": "/kæt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "catalog",
+    "translation": "目录",
+    "phonetic": "/ˈkætəlɔːɡ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "catch",
+    "translation": "抓住",
+    "phonetic": "/kætʃ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "category",
+    "translation": "类别",
+    "phonetic": "/ˈkætəɡɔːri/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cattle",
+    "translation": "牛",
+    "phonetic": "/ˈkætl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cause",
+    "translation": "原因",
+    "phonetic": "/kɔːz/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "caution",
+    "translation": "小心",
+    "phonetic": "/ˈkɔːʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cautious",
+    "translation": "小心的",
+    "phonetic": "/ˈkɔːʃəs/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cave",
+    "translation": "洞穴",
+    "phonetic": "/keɪv/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cavity",
+    "translation": "腔",
+    "phonetic": "/ˈkævəti/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cease",
+    "translation": "停止",
+    "phonetic": "/siːs/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "ceiling",
+    "translation": "天花板",
+    "phonetic": "/ˈsiːlɪŋ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "celebrate",
+    "translation": "庆祝",
+    "phonetic": "/ˈselɪbreɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "celebration",
+    "translation": "庆祝",
+    "phonetic": "/ˌselɪˈbreɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cell",
+    "translation": "细胞",
+    "phonetic": "/sel/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cellar",
+    "translation": "地下室",
+    "phonetic": "/ˈselər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cement",
+    "translation": "水泥",
+    "phonetic": "/sɪˈment/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cemetery",
+    "translation": "墓地",
+    "phonetic": "/ˈseməteri/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "census",
+    "translation": "人口普查",
+    "phonetic": "/ˈsensəs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cent",
+    "translation": "分",
+    "phonetic": "/sent/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "centigrade",
+    "translation": "摄氏度",
+    "phonetic": "/ˈsentɪɡreɪd/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "centimeter",
+    "translation": "厘米",
+    "phonetic": "/ˈsentɪmiːtər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "central",
+    "translation": "中心的",
+    "phonetic": "/ˈsentrəl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "centre",
+    "translation": "中心",
+    "phonetic": "/ˈsentər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "century",
+    "translation": "世纪",
+    "phonetic": "/ˈsentʃuri/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "ceremony",
+    "translation": "仪式",
+    "phonetic": "/ˈserəmoʊni/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "certain",
+    "translation": "确定的",
+    "phonetic": "/ˈsɜːrtn/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "certainly",
+    "translation": "当然",
+    "phonetic": "/ˈsɜːrtnli/",
+    "partOfSpeech": "adv."
+  },
+  {
+    "word": "certainty",
+    "translation": "确定性",
+    "phonetic": "/ˈsɜːrtnti/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "certificate",
+    "translation": "证书",
+    "phonetic": "/sərˈtɪfɪkət/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "certify",
+    "translation": "证明",
+    "phonetic": "/ˈsɜːrtɪfaɪ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "chain",
+    "translation": "链条",
+    "phonetic": "/tʃeɪn/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "chair",
+    "translation": "椅子",
+    "phonetic": "/tʃer/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chairman",
+    "translation": "主席",
+    "phonetic": "/ˈtʃeərmən/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chalk",
+    "translation": "粉笔",
+    "phonetic": "/tʃɔːk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "challenge",
+    "translation": "挑战",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "chamber",
+    "translation": "房间",
+    "phonetic": "/ˈtʃeɪmbər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "champion",
+    "translation": "冠军",
+    "phonetic": "/ˈtʃæmpiən/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chance",
+    "translation": "机会",
+    "phonetic": "/tʃæns/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "change",
+    "translation": "改变",
+    "phonetic": "/tʃeɪndʒ/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "changeable",
+    "translation": "可变的",
+    "phonetic": "/ˈtʃeɪndʒəbl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "channel",
+    "translation": "频道",
+    "phonetic": "/ˈtʃænl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chaos",
+    "translation": "混乱",
+    "phonetic": "/ˈkeɪɑːs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chap",
+    "translation": "家伙",
+    "phonetic": "/tʃæp/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chapter",
+    "translation": "章节",
+    "phonetic": "/ˈtʃæptər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "character",
+    "translation": "性格",
+    "phonetic": "/ˈkærəktər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "characteristic",
+    "translation": "特征",
+    "phonetic": "/ˌkærəktəˈrɪstɪk/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "characterize",
+    "translation": "描述",
+    "phonetic": "/ˈkærəktəraɪz/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "charge",
+    "translation": "收费",
+    "phonetic": "/tʃɑːrdʒ/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "charity",
+    "translation": "慈善",
+    "phonetic": "/ˈtʃærəti/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "charm",
+    "translation": "魅力",
+    "phonetic": "/tʃɑːrm/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "chart",
+    "translation": "图表",
+    "phonetic": "/tʃɑːrt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "charter",
+    "translation": "宪章",
+    "phonetic": "/ˈtʃɑːrtər/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "chase",
+    "translation": "追赶",
+    "phonetic": "/tʃeɪs/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "chat",
+    "translation": "聊天",
+    "phonetic": "/tʃæt/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "cheap",
+    "translation": "便宜的",
+    "phonetic": "/tʃiːp/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cheat",
+    "translation": "欺骗",
+    "phonetic": "/tʃiːt/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "check",
+    "translation": "检查",
+    "phonetic": "/tʃek/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "cheek",
+    "translation": "脸颊",
+    "phonetic": "/tʃiːk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cheer",
+    "translation": "欢呼",
+    "phonetic": "/tʃɪr/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "cheerful",
+    "translation": "快乐的",
+    "phonetic": "/ˈtʃɪrfl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cheese",
+    "translation": "奶酪",
+    "phonetic": "/tʃiːz/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chef",
+    "translation": "厨师",
+    "phonetic": "/ʃef/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chemical",
+    "translation": "化学的",
+    "phonetic": "/ˈkemɪkl/",
+    "partOfSpeech": "adj./n."
+  },
+  {
+    "word": "chemist",
+    "translation": "化学家",
+    "phonetic": "/ˈkemɪst/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chemistry",
+    "translation": "化学",
+    "phonetic": "/ˈkemɪstri/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cheque",
+    "translation": "支票",
+    "phonetic": "/tʃek/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cherish",
+    "translation": "珍爱",
+    "phonetic": "/ˈtʃerɪʃ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "cherry",
+    "translation": "樱桃",
+    "phonetic": "/ˈtʃeri/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chess",
+    "translation": "国际象棋",
+    "phonetic": "/tʃes/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chest",
+    "translation": "胸部",
+    "phonetic": "/tʃest/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chew",
+    "translation": "咀嚼",
+    "phonetic": "/tʃuː/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "chicken",
+    "translation": "鸡肉",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chief",
+    "translation": "主要的",
+    "phonetic": "/tʃiːf/",
+    "partOfSpeech": "adj./n."
+  },
+  {
+    "word": "child",
+    "translation": "孩子",
+    "phonetic": "/tʃaɪld/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "childhood",
+    "translation": "童年",
+    "phonetic": "/ˈtʃaɪldhʊd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chill",
+    "translation": "寒冷",
+    "phonetic": "/tʃɪl/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "chimney",
+    "translation": "烟囱",
+    "phonetic": "/ˈtʃɪmni/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chin",
+    "translation": "下巴",
+    "phonetic": "/tʃɪn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "china",
+    "translation": "瓷器",
+    "phonetic": "/ˈtʃaɪnə/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "chip",
+    "translation": "芯片",
+    "phonetic": "/tʃɪp/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "chocolate",
+    "translation": "巧克力",
+    "phonetic": "/ˈtʃɑːklət/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "choice",
+    "translation": "选择",
+    "phonetic": "/tʃɔɪs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "choke",
+    "translation": "窒息",
+    "phonetic": "/tʃoʊk/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "choose",
+    "translation": "选择",
+    "phonetic": "/tʃuːz/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "chop",
+    "translation": "砍",
+    "phonetic": "/tʃɑːp/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "chorus",
+    "translation": "合唱队",
+    "phonetic": "/ˈkɔːrəs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "Christian",
+    "translation": "基督徒",
+    "phonetic": "/ˈkrɪstʃən/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "Christmas",
+    "translation": "圣诞节",
+    "phonetic": "/ˈkrɪsməs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "church",
+    "translation": "教堂",
+    "phonetic": "/tʃɜːrtʃ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cigarette",
+    "translation": "香烟",
+    "phonetic": "/ˌsɪɡəˈret/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cinema",
+    "translation": "电影院",
+    "phonetic": "/ˈsɪnəmə/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "circle",
+    "translation": "圆圈",
+    "phonetic": "/ˈsɜːrkl/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "circuit",
+    "translation": "电路",
+    "phonetic": "/ˈsɜːrkɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "circular",
+    "translation": "圆形的",
+    "phonetic": "/ˈsɜːrkjələr/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "circulate",
+    "translation": "循环",
+    "phonetic": "/ˈsɜːrkjuleɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "circumference",
+    "translation": "圆周",
+    "phonetic": "/səˈkʌmfərəns/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "circumstance",
+    "translation": "环境",
+    "phonetic": "/ˈsɜːrkəmstæns/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "circus",
+    "translation": "马戏团",
+    "phonetic": "/ˈsɜːrkəs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cite",
+    "translation": "引用",
+    "phonetic": "/saɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "citizen",
+    "translation": "公民",
+    "phonetic": "/ˈsɪtɪzn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "city",
+    "translation": "城市",
+    "phonetic": "/ˈsɪti/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "civil",
+    "translation": "公民的",
+    "phonetic": "/ˈsɪvl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "civilian",
+    "translation": "平民",
+    "phonetic": "/səˈvɪliən/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "civilization",
+    "translation": "文明",
+    "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "civilize",
+    "translation": "教化",
+    "phonetic": "/ˈsɪvəlaɪz/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "claim",
+    "translation": "声称",
+    "phonetic": "/kleɪm/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "clap",
+    "translation": "鼓掌",
+    "phonetic": "/klæp/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "clarify",
+    "translation": "澄清",
+    "phonetic": "/ˈklærəfaɪ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "clarity",
+    "translation": "清晰",
+    "phonetic": "/ˈklærəti/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "clash",
+    "translation": "冲突",
+    "phonetic": "/klæʃ/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "clasp",
+    "translation": "紧握",
+    "phonetic": "/klæsp/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "class",
+    "translation": "班级",
+    "phonetic": "/klæs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "classic",
+    "translation": "经典的",
+    "phonetic": "/ˈklæsɪk/",
+    "partOfSpeech": "adj./n."
+  },
+  {
+    "word": "classical",
+    "translation": "古典的",
+    "phonetic": "/ˈklæsɪkl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "classification",
+    "translation": "分类",
+    "phonetic": "/ˌklæsɪfɪˈkeɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "classify",
+    "translation": "分类",
+    "phonetic": "/ˈklæsɪfaɪ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "classmate",
+    "translation": "同学",
+    "phonetic": "/ˈklæsmeɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "classroom",
+    "translation": "教室",
+    "phonetic": "/ˈklæsruːm/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "clause",
+    "translation": "条款",
+    "phonetic": "/klɔːz/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "claw",
+    "translation": "爪",
+    "phonetic": "/klɔː/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "clay",
+    "translation": "粘土",
+    "phonetic": "/kleɪ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "clean",
+    "translation": "清洁的",
+    "phonetic": "/kliːn/",
+    "partOfSpeech": "adj./v."
+  },
+  {
+    "word": "clear",
+    "translation": "清楚的",
+    "phonetic": "/klɪr/",
+    "partOfSpeech": "adj./v."
+  },
+  {
+    "word": "clerk",
+    "translation": "职员",
+    "phonetic": "/klɜːrk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "clever",
+    "translation": "聪明的",
+    "phonetic": "/ˈklevər/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "click",
+    "translation": "点击",
+    "phonetic": "/klɪk/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "client",
+    "translation": "客户",
+    "phonetic": "/ˈklaɪənt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cliff",
+    "translation": "悬崖",
+    "phonetic": "/klɪf/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "climate",
+    "translation": "气候",
+    "phonetic": "/ˈklaɪmət/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "climb",
+    "translation": "攀登",
+    "phonetic": "/klaɪm/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "cling",
+    "translation": "坚持",
+    "phonetic": "/klɪŋ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "clinic",
+    "translation": "诊所",
+    "phonetic": "/ˈklɪnɪk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "clip",
+    "translation": "剪",
+    "phonetic": "/klɪp/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "cloak",
+    "translation": "斗篷",
+    "phonetic": "/kloʊk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "clock",
+    "translation": "时钟",
+    "phonetic": "/klɑːk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "clone",
+    "translation": "克隆",
+    "phonetic": "/kloʊn/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "close",
+    "translation": "关闭",
+    "phonetic": "/kloʊs/",
+    "partOfSpeech": "adj./v."
+  },
+  {
+    "word": "closet",
+    "translation": "壁橱",
+    "phonetic": "/ˈklɑːzɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cloth",
+    "translation": "布",
+    "phonetic": "/klɔːθ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "clothe",
+    "translation": "给...穿衣",
+    "phonetic": "/kloʊð/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "clothes",
+    "translation": "衣服",
+    "phonetic": "/kloʊðz/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "clothing",
+    "translation": "服装",
+    "phonetic": "/ˈkloʊðɪŋ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cloud",
+    "translation": "云",
+    "phonetic": "/klaʊd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cloudy",
+    "translation": "多云的",
+    "phonetic": "/ˈklaʊdi/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "club",
+    "translation": "俱乐部",
+    "phonetic": "/klʌb/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "clue",
+    "translation": "线索",
+    "phonetic": "/kluː/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "clumsy",
+    "translation": "笨拙的",
+    "phonetic": "/ˈklʌmzi/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "coach",
+    "translation": "教练",
+    "phonetic": "/koʊtʃ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "coal",
+    "translation": "煤",
+    "phonetic": "/koʊl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "coarse",
+    "translation": "粗糙的",
+    "phonetic": "/kɔːrs/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "coast",
+    "translation": "海岸",
+    "phonetic": "/koʊst/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "coat",
+    "translation": "外套",
+    "phonetic": "/koʊt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cock",
+    "translation": "公鸡",
+    "phonetic": "/kɑːk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "code",
+    "translation": "代码",
+    "phonetic": "/koʊd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "coffee",
+    "translation": "咖啡",
+    "phonetic": "/ˈkɒfi/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "coherent",
+    "translation": "连贯的",
+    "phonetic": "/koʊˈhɪrənt/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "coil",
+    "translation": "线圈",
+    "phonetic": "/kɔɪl/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "coin",
+    "translation": "硬币",
+    "phonetic": "/kɔɪn/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "coincide",
+    "translation": "巧合",
+    "phonetic": "/ˌkoʊɪnˈsaɪd/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "coke",
+    "translation": "焦炭",
+    "phonetic": "/koʊk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cold",
+    "translation": "冷的",
+    "phonetic": "/koʊld/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "collaborate",
+    "translation": "合作",
+    "phonetic": "/kəˈlæbəreɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "collapse",
+    "translation": "倒塌",
+    "phonetic": "/kəˈlæps/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "collar",
+    "translation": "衣领",
+    "phonetic": "/ˈkɑːlər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "colleague",
+    "translation": "同事",
+    "phonetic": "/ˈkɑːliːg/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "collect",
+    "translation": "收集",
+    "phonetic": "/kəˈlekt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "collection",
+    "translation": "收集",
+    "phonetic": "/kəˈlekʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "collective",
+    "translation": "集体的",
+    "phonetic": "/kəˈlektɪv/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "college",
+    "translation": "大学",
+    "phonetic": "/ˈkɑːlɪdʒ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "collision",
+    "translation": "碰撞",
+    "phonetic": "/kəˈlɪʒn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "colonel",
+    "translation": "上校",
+    "phonetic": "/ˈkɜːrnl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "colonial",
+    "translation": "殖民的",
+    "phonetic": "/kəˈloʊniəl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "colony",
+    "translation": "殖民地",
+    "phonetic": "/ˈkɑːləni/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "color",
+    "translation": "颜色",
+    "phonetic": "/ˈkʌlər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "column",
+    "translation": "柱子",
+    "phonetic": "/ˈkɑːləm/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "comb",
+    "translation": "梳子",
+    "phonetic": "/koʊm/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "combat",
+    "translation": "战斗",
+    "phonetic": "/ˈkɑːmbæt/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "combination",
+    "translation": "组合",
+    "phonetic": "/ˌkɑːmbɪˈneɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "combine",
+    "translation": "结合",
+    "phonetic": "/kəmˈbaɪn/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "come",
+    "translation": "来",
+    "phonetic": "/kʌm/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "comedy",
+    "translation": "喜剧",
+    "phonetic": "/ˈkɑːmədi/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "comfort",
+    "translation": "舒适",
+    "phonetic": "/ˈkʌmfərt/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "comfortable",
+    "translation": "舒适的",
+    "phonetic": "/ˈkʌmfərtəbl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "comic",
+    "translation": "滑稽的",
+    "phonetic": "/ˈkɒmɪk/",
+    "partOfSpeech": "adj./n."
+  },
+  {
+    "word": "command",
+    "translation": "命令",
+    "phonetic": "/kəˈmænd/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "commander",
+    "translation": "指挥官",
+    "phonetic": "/kəˈmændər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "comment",
+    "translation": "评论",
+    "phonetic": "/ˈkɒment/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "commerce",
+    "translation": "商业",
+    "phonetic": "/ˈkɑːmɜːrs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "commercial",
+    "translation": "商业的",
+    "phonetic": "/kəˈmɜːrʃl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "commission",
+    "translation": "委员会",
+    "phonetic": "/kəˈmɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "commit",
+    "translation": "犯",
+    "phonetic": "/kəˈmɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "committee",
+    "translation": "委员会",
+    "phonetic": "/kəˈmɪti/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "common",
+    "translation": "普通的",
+    "phonetic": "/ˈkɑːmən/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "commonly",
+    "translation": "通常",
+    "phonetic": "/ˈkɑːmənli/",
+    "partOfSpeech": "adv."
+  },
+  {
+    "word": "communicate",
+    "translation": "交流",
+    "phonetic": "/kəˈmjuːnɪkeɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "communication",
+    "translation": "交流",
+    "phonetic": "/kəˌmjuːnɪˈkeɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "communism",
+    "translation": "共产主义",
+    "phonetic": "/ˈkɒmjənɪzəm/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "communist",
+    "translation": "共产主义者",
+    "phonetic": "/ˈkɒmjənɪst/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "community",
+    "translation": "社区",
+    "phonetic": "/kəˈmjuːnəti/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "compact",
+    "translation": "紧凑的",
+    "phonetic": "/kəmˈpækt/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "companion",
+    "translation": "同伴",
+    "phonetic": "/kəmˈpæniən/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "company",
+    "translation": "公司",
+    "phonetic": "/ˈkʌmpəni/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "compare",
+    "translation": "比较",
+    "phonetic": "/kəmˈper/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "comparison",
+    "translation": "比较",
+    "phonetic": "/kəmˈpærɪsn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "compartment",
+    "translation": "隔间",
+    "phonetic": "/kəmˈpɑːrtmənt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "compass",
+    "translation": "指南针",
+    "phonetic": "/ˈkʌmpəs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "compel",
+    "translation": "强迫",
+    "phonetic": "/kəmˈpel/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "compete",
+    "translation": "竞争",
+    "phonetic": "/kəmˈpiːt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "competition",
+    "translation": "竞争",
+    "phonetic": "/ˌkɑːmpəˈtɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "competitive",
+    "translation": "竞争的",
+    "phonetic": "/kəmˈpetətɪv/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "compile",
+    "translation": "编译",
+    "phonetic": "/kəmˈpaɪl/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "complain",
+    "translation": "抱怨",
+    "phonetic": "/kəmˈpleɪn/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "complaint",
+    "translation": "抱怨",
+    "phonetic": "/kəmˈpleɪnt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "complete",
+    "translation": "完成",
+    "phonetic": "/kəmˈpliːt/",
+    "partOfSpeech": "adj./v."
+  },
+  {
+    "word": "completely",
+    "translation": "完全地",
+    "phonetic": "/kəmˈpliːtli/",
+    "partOfSpeech": "adv."
+  },
+  {
+    "word": "complex",
+    "translation": "复杂的",
+    "phonetic": "/ˈkɒmpleks/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "complicate",
+    "translation": "使复杂",
+    "phonetic": "/ˈkɒmplɪkeɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "complicated",
+    "translation": "复杂的",
+    "phonetic": "/ˈkɒmplɪkeɪtɪd/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "complication",
+    "translation": "并发症",
+    "phonetic": "/ˌkɒmplɪˈkeɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "compliment",
+    "translation": "赞美",
+    "phonetic": "/ˈkɒmplɪment/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "comply",
+    "translation": "遵守",
+    "phonetic": "/kəmˈplaɪ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "component",
+    "translation": "组件",
+    "phonetic": "/kəmˈpoʊnənt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "compose",
+    "translation": "组成",
+    "phonetic": "/kəmˈpoʊz/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "composer",
+    "translation": "作曲家",
+    "phonetic": "/kəmˈpoʊzər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "composition",
+    "translation": "作文",
+    "phonetic": "/ˌkɑːmpəˈzɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "compound",
+    "translation": "化合物",
+    "phonetic": "/ˈkɑːmpaʊnd/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "comprehend",
+    "translation": "理解",
+    "phonetic": "/ˌkɑːmprɪˈhend/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "comprehensive",
+    "translation": "综合的",
+    "phonetic": "/ˌkɑːmprɪˈhensɪv/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "compress",
+    "translation": "压缩",
+    "phonetic": "/kəmˈpres/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "comprise",
+    "translation": "包含",
+    "phonetic": "/kəmˈpraɪz/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "compromise",
+    "translation": "妥协",
+    "phonetic": "/ˈkɑːmprəmaɪz/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "compute",
+    "translation": "计算",
+    "phonetic": "/kəmˈpjuːt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "computer",
+    "translation": "计算机",
+    "phonetic": "/kəmˈpjuːtər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "comrade",
+    "translation": "同志",
+    "phonetic": "/ˈkɒmreɪd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "conceal",
+    "translation": "隐藏",
+    "phonetic": "/kənˈsiːl/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "concede",
+    "translation": "承认",
+    "phonetic": "/kənˈsiːd/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "concentrate",
+    "translation": "集中",
+    "phonetic": "/ˈkɑːnsntreɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "concentration",
+    "translation": "集中",
+    "phonetic": "/ˌkɑːnsnˈtreɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "concept",
+    "translation": "概念",
+    "phonetic": "/ˈkɑːnsept/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "concern",
+    "translation": "关心",
+    "phonetic": "/kənˈsɜːrn/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "concert",
+    "translation": "音乐会",
+    "phonetic": "/ˈkɑːnsərt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "concession",
+    "translation": "让步",
+    "phonetic": "/kənˈseʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "concise",
+    "translation": "简明的",
+    "phonetic": "/kənˈsaɪs/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "conclude",
+    "translation": "结论",
+    "phonetic": "/kənˈkluːd/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "conclusion",
+    "translation": "结论",
+    "phonetic": "/kənˈkluːʒn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "concrete",
+    "translation": "具体的",
+    "phonetic": "/ˈkɑːnkriːt/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "condemn",
+    "translation": "谴责",
+    "phonetic": "/kənˈdem/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "condition",
+    "translation": "条件",
+    "phonetic": "/kənˈdɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "conduct",
+    "translation": "行为",
+    "phonetic": "/kənˈdʌkt/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "conductor",
+    "translation": "指挥",
+    "phonetic": "/kənˈdʌktər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "conference",
+    "translation": "会议",
+    "phonetic": "/ˈkɑːnfərəns/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "confess",
+    "translation": "忏悔",
+    "phonetic": "/kənˈfes/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "confidence",
+    "translation": "信心",
+    "phonetic": "/ˈkɑːnfɪdəns/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "confident",
+    "translation": "自信的",
+    "phonetic": "/ˈkɑːnfɪdənt/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "confidential",
+    "translation": "机密的",
+    "phonetic": "/ˌkɑːnfɪˈdenʃl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "confine",
+    "translation": "限制",
+    "phonetic": "/kənˈfaɪn/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "confirm",
+    "translation": "确认",
+    "phonetic": "/kənˈfɜːrm/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "conflict",
+    "translation": "冲突",
+    "phonetic": "/ˈkɑːnflɪkt/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "confuse",
+    "translation": "困惑",
+    "phonetic": "/kənˈfjuːz/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "confusion",
+    "translation": "困惑",
+    "phonetic": "/kənˈfjuːʒn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "congratulate",
+    "translation": "祝贺",
+    "phonetic": "/kənˈɡrætʃuleɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "congratulation",
+    "translation": "祝贺",
+    "phonetic": "/kənˌɡrætʃuˈleɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "congress",
+    "translation": "国会",
+    "phonetic": "/ˈkɑːŋɡrəs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "conjunction",
+    "translation": "连词",
+    "phonetic": "/kənˈdʒʌŋkʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "connect",
+    "translation": "连接",
+    "phonetic": "/kəˈnekt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "connection",
+    "translation": "连接",
+    "phonetic": "/kəˈnekʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "conquer",
+    "translation": "征服",
+    "phonetic": "/ˈkɑːŋkər/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "conquest",
+    "translation": "征服",
+    "phonetic": "/ˈkɑːŋkwest/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "conscience",
+    "translation": "良心",
+    "phonetic": "/ˈkɑːnʃəns/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "conscious",
+    "translation": "有意识的",
+    "phonetic": "/ˈkɑːnʃəs/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "consent",
+    "translation": "同意",
+    "phonetic": "/kənˈsent/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "consequence",
+    "translation": "后果",
+    "phonetic": "/ˈkɑːnsɪkwens/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "consequently",
+    "translation": "因此",
+    "phonetic": "/ˈkɑːnsɪkwentli/",
+    "partOfSpeech": "adv."
+  },
+  {
+    "word": "conservation",
+    "translation": "保护",
+    "phonetic": "/ˌkɑːnsərˈveɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "conservative",
+    "translation": "保守的",
+    "phonetic": "/kənˈsɜːrvətɪv/",
+    "partOfSpeech": "adj./n."
+  },
+  {
+    "word": "consider",
+    "translation": "考虑",
+    "phonetic": "/kənˈsɪdər/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "considerable",
+    "translation": "相当大的",
+    "phonetic": "/kənˈsɪdərəbl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "considerate",
+    "translation": "体贴的",
+    "phonetic": "/kənˈsɪdərət/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "consideration",
+    "translation": "考虑",
+    "phonetic": "/kənˌsɪdəˈreɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "consist",
+    "translation": "组成",
+    "phonetic": "/kənˈsɪst/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "consistent",
+    "translation": "一致的",
+    "phonetic": "/kənˈsɪstənt/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "constant",
+    "translation": "不断的",
+    "phonetic": "/ˈkɑːnstənt/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "constantly",
+    "translation": "不断地",
+    "phonetic": "/ˈkɑːnstəntli/",
+    "partOfSpeech": "adv."
+  },
+  {
+    "word": "constitute",
+    "translation": "构成",
+    "phonetic": "/ˈkɑːnstɪtuːt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "constitution",
+    "translation": "宪法",
+    "phonetic": "/ˌkɑːnstɪˈtuːʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "construct",
+    "translation": "建造",
+    "phonetic": "/kənˈstrʌkt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "construction",
+    "translation": "建造",
+    "phonetic": "/kənˈstrʌkʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "consult",
+    "translation": "咨询",
+    "phonetic": "/kənˈsʌlt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "consultant",
+    "translation": "顾问",
+    "phonetic": "/kənˈsʌltənt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "consume",
+    "translation": "消费",
+    "phonetic": "/kənˈsuːm/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "consumer",
+    "translation": "消费者",
+    "phonetic": "/kənˈsuːmər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "consumption",
+    "translation": "消费",
+    "phonetic": "/kənˈsʌmpʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "contact",
+    "translation": "联系",
+    "phonetic": "/ˈkɑːntækt/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "contain",
+    "translation": "包含",
+    "phonetic": "/kənˈteɪn/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "container",
+    "translation": "容器",
+    "phonetic": "/kənˈteɪnər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "contaminate",
+    "translation": "污染",
+    "phonetic": "/kənˈtæmɪneɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "contemporary",
+    "translation": "当代的",
+    "phonetic": "/kənˈtempreri/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "contempt",
+    "translation": "轻视",
+    "phonetic": "/kənˈtempt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "contend",
+    "translation": "竞争",
+    "phonetic": "/kənˈtend/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "content",
+    "translation": "内容",
+    "phonetic": "/ˈkɑːntent/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "contest",
+    "translation": "竞赛",
+    "phonetic": "/ˈkɑːntest/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "context",
+    "translation": "上下文",
+    "phonetic": "/ˈkɑːntekst/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "continent",
+    "translation": "大陆",
+    "phonetic": "/ˈkɑːntɪnənt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "continue",
+    "translation": "继续",
+    "phonetic": "/kənˈtɪnjuː/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "continuous",
+    "translation": "连续的",
+    "phonetic": "/kənˈtɪnjuəs/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "contract",
+    "translation": "合同",
+    "phonetic": "/ˈkɑːntrækt/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "contradiction",
+    "translation": "矛盾",
+    "phonetic": "/ˌkɑːntrəˈdɪkʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "contrary",
+    "translation": "相反的",
+    "phonetic": "/ˈkɑːntreri/",
+    "partOfSpeech": "adj./n."
+  },
+  {
+    "word": "contrast",
+    "translation": "对比",
+    "phonetic": "/ˈkɑːntræst/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "contribute",
+    "translation": "贡献",
+    "phonetic": "/kənˈtrɪbjuːt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "contribution",
+    "translation": "贡献",
+    "phonetic": "/ˌkɑːntrɪˈbjuːʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "control",
+    "translation": "控制",
+    "phonetic": "/kənˈtroʊl/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "controversial",
+    "translation": "有争议的",
+    "phonetic": "/ˌkɑːntrəˈvɜːrʃl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "convenience",
+    "translation": "便利",
+    "phonetic": "/kənˈviːniəns/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "convenient",
+    "translation": "方便的",
+    "phonetic": "/kənˈviːniənt/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "convention",
+    "translation": "惯例",
+    "phonetic": "/kənˈvenʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "conventional",
+    "translation": "传统的",
+    "phonetic": "/kənˈvenʃənl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "conversation",
+    "translation": "对话",
+    "phonetic": "/ˌkɑːnvərˈseɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "conversely",
+    "translation": "相反地",
+    "phonetic": "/ˈkɑːnvɜːrsli/",
+    "partOfSpeech": "adv."
+  },
+  {
+    "word": "conversion",
+    "translation": "转换",
+    "phonetic": "/kənˈvɜːrʒn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "convert",
+    "translation": "转变",
+    "phonetic": "/kənˈvɜːrt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "convey",
+    "translation": "传达",
+    "phonetic": "/kənˈveɪ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "convict",
+    "translation": "定罪",
+    "phonetic": "/kənˈvɪkt/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "conviction",
+    "translation": "定罪",
+    "phonetic": "/kənˈvɪkʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "convince",
+    "translation": "说服",
+    "phonetic": "/kənˈvɪns/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "cook",
+    "translation": "做饭",
+    "phonetic": "/kʊk/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "cooker",
+    "translation": "炊具",
+    "phonetic": "/ˈkʊkər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cookie",
+    "translation": "曲奇",
+    "phonetic": "/ˈkʊki/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cool",
+    "translation": "凉爽的",
+    "phonetic": "/kuːl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cooperate",
+    "translation": "合作",
+    "phonetic": "/koʊˈɑːpəreɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "cooperation",
+    "translation": "合作",
+    "phonetic": "/koʊˌɑːpəˈreɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "coordinate",
+    "translation": "协调",
+    "phonetic": "/koʊˈɔːrdɪneɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "cope",
+    "translation": "应付",
+    "phonetic": "/koʊp/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "copy",
+    "translation": "复制",
+    "phonetic": "/ˈkɑːpi/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "copyright",
+    "translation": "版权",
+    "phonetic": "/ˈkɑːpiraɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "core",
+    "translation": "核心",
+    "phonetic": "/kɔːr/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "corn",
+    "translation": "玉米",
+    "phonetic": "/kɔːrn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "corner",
+    "translation": "角落",
+    "phonetic": "/ˈkɔːrnər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "corporation",
+    "translation": "公司",
+    "phonetic": "/ˌkɔːrpəˈreɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "correct",
+    "translation": "正确的",
+    "phonetic": "/kəˈrekt/",
+    "partOfSpeech": "adj./v."
+  },
+  {
+    "word": "correction",
+    "translation": "更正",
+    "phonetic": "/kəˈrekʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "correspond",
+    "translation": "通信",
+    "phonetic": "/ˌkɔːrəˈspɑːnd/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "corresponding",
+    "translation": "相应的",
+    "phonetic": "/ˌkɔːrəˈspɑːndɪŋ/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "corridor",
+    "translation": "走廊",
+    "phonetic": "/ˈkɔːrɪdɔːr/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "corrupt",
+    "translation": "腐败的",
+    "phonetic": "/kəˈrʌpt/",
+    "partOfSpeech": "adj./v."
+  },
+  {
+    "word": "cosmic",
+    "translation": "宇宙的",
+    "phonetic": "/ˈkɑːzmɪk/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cosmopolitan",
+    "translation": "世界性的",
+    "phonetic": "/ˌkɑːzməˈpɑːlɪtən/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cost",
+    "translation": "成本",
+    "phonetic": "/kɔːst/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "costly",
+    "translation": "昂贵的",
+    "phonetic": "/ˈkɔːstli/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "costume",
+    "translation": "服装",
+    "phonetic": "/ˈkɑːstuːm/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cottage",
+    "translation": "小屋",
+    "phonetic": "/ˈkɑːtɪdʒ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cotton",
+    "translation": "棉花",
+    "phonetic": "/ˈkɑːtn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "couch",
+    "translation": "沙发",
+    "phonetic": "/kaʊtʃ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cough",
+    "translation": "咳嗽",
+    "phonetic": "/kɔːf/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "could",
+    "translation": "能够",
+    "phonetic": "/kʊd/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "council",
+    "translation": "委员会",
+    "phonetic": "/ˈkaʊnsl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "counsel",
+    "translation": "建议",
+    "phonetic": "/ˈkaʊnsl/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "count",
+    "translation": "数",
+    "phonetic": "/kaʊnt/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "counter",
+    "translation": "柜台",
+    "phonetic": "/ˈkaʊntər/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "country",
+    "translation": "国家",
+    "phonetic": "/ˈkʌntri/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "countryside",
+    "translation": "乡村",
+    "phonetic": "/ˈkʌntrisaɪd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "county",
+    "translation": "县",
+    "phonetic": "/ˈkaʊnti/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "couple",
+    "translation": "一对",
+    "phonetic": "/ˈkʌpl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "courage",
+    "translation": "勇气",
+    "phonetic": "/ˈkɜːrɪdʒ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "course",
+    "translation": "课程",
+    "phonetic": "/kɔːrs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "court",
+    "translation": "法院",
+    "phonetic": "/kɔːrt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "courtesy",
+    "translation": "礼貌",
+    "phonetic": "/ˈkɜːrtəsi/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "courtyard",
+    "translation": "庭院",
+    "phonetic": "/ˈkɔːrtjɑːrd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cousin",
+    "translation": "堂表兄弟姐妹",
+    "phonetic": "/ˈkʌzn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cover",
+    "translation": "覆盖",
+    "phonetic": "/ˈkʌvər/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "cow",
+    "translation": "奶牛",
+    "phonetic": "/kaʊ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "coward",
+    "translation": "懦夫",
+    "phonetic": "/ˈkaʊərd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "crack",
+    "translation": "裂缝",
+    "phonetic": "/kræk/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "craft",
+    "translation": "工艺",
+    "phonetic": "/kræft/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "crane",
+    "translation": "起重机",
+    "phonetic": "/kreɪn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "crash",
+    "translation": "坠毁",
+    "phonetic": "/kræʃ/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "crazy",
+    "translation": "疯狂的",
+    "phonetic": "/ˈkreɪzi/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cream",
+    "translation": "奶油",
+    "phonetic": "/kriːm/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "create",
+    "translation": "创造",
+    "phonetic": "/kriˈeɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "creation",
+    "translation": "创造",
+    "phonetic": "/kriˈeɪʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "creative",
+    "translation": "有创造力的",
+    "phonetic": "/kriˈeɪtɪv/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "creature",
+    "translation": "生物",
+    "phonetic": "/ˈkriːtʃər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "credential",
+    "translation": "凭证",
+    "phonetic": "/krəˈdenʃl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "credit",
+    "translation": "信用",
+    "phonetic": "/ˈkredɪt/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "creep",
+    "translation": "爬行",
+    "phonetic": "/kriːp/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "crew",
+    "translation": "船员",
+    "phonetic": "/kruː/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "crime",
+    "translation": "犯罪",
+    "phonetic": "/kraɪm/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "criminal",
+    "translation": "罪犯",
+    "phonetic": "/ˈkrɪmɪnl/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "crisis",
+    "translation": "危机",
+    "phonetic": "/ˈkraɪsɪs/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "crisp",
+    "translation": "脆的",
+    "phonetic": "/krɪsp/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "criterion",
+    "translation": "标准",
+    "phonetic": "/kraɪˈtɪriən/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "critic",
+    "translation": "批评家",
+    "phonetic": "/ˈkrɪtɪk/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "critical",
+    "translation": "关键的",
+    "phonetic": "/ˈkrɪtɪkl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "criticism",
+    "translation": "批评",
+    "phonetic": "/ˈkrɪtɪsɪzəm/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "criticize",
+    "translation": "批评",
+    "phonetic": "/ˈkrɪtɪsaɪz/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "crop",
+    "translation": "作物",
+    "phonetic": "/krɑːp/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cross",
+    "translation": "交叉",
+    "phonetic": "/krɔːs/",
+    "partOfSpeech": "adj./v."
+  },
+  {
+    "word": "crow",
+    "translation": "乌鸦",
+    "phonetic": "/kroʊ/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "crowd",
+    "translation": "人群",
+    "phonetic": "/kraʊd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "crown",
+    "translation": "王冠",
+    "phonetic": "/kraʊn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "crude",
+    "translation": "粗糙的",
+    "phonetic": "/kruːd/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cruel",
+    "translation": "残忍的",
+    "phonetic": "/ˈkruːəl/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cruelty",
+    "translation": "残忍",
+    "phonetic": "/ˈkruːəlti/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "crush",
+    "translation": "压碎",
+    "phonetic": "/krʌʃ/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "crust",
+    "translation": "外壳",
+    "phonetic": "/krʌst/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "crystal",
+    "translation": "水晶",
+    "phonetic": "/ˈkrɪstl/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "cube",
+    "translation": "立方体",
+    "phonetic": "/kjuːb/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cubic",
+    "translation": "立方的",
+    "phonetic": "/ˈkjuːbɪk/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cultivate",
+    "translation": "培养",
+    "phonetic": "/ˈkʌltɪveɪt/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "culture",
+    "translation": "文化",
+    "phonetic": "/ˈkʌltʃər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cunning",
+    "translation": "狡猾的",
+    "phonetic": "/ˈkʌnɪŋ/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cup",
+    "translation": "杯子",
+    "phonetic": "/kʌp/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cupboard",
+    "translation": "碗柜",
+    "phonetic": "/ˈkʌbərd/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cure",
+    "translation": "治愈",
+    "phonetic": "/kjʊr/",
+    "partOfSpeech": "v."
+  },
+  {
+    "word": "curiosity",
+    "translation": "好奇心",
+    "phonetic": "/ˌkjʊriˈɒsəti/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "curious",
+    "translation": "好奇的",
+    "phonetic": "/ˈkjʊriəs/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "curl",
+    "translation": "卷曲",
+    "phonetic": "/kɜːrl/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "currency",
+    "translation": "货币",
+    "phonetic": "/ˈkʌrənsi/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "current",
+    "translation": "当前的",
+    "phonetic": "/ˈkʌrənt/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "curriculum",
+    "translation": "课程",
+    "phonetic": "/kəˈrɪkjələm/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "curse",
+    "translation": "诅咒",
+    "phonetic": "/kɜːrs/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "curtain",
+    "translation": "窗帘",
+    "phonetic": "/ˈkɜːrtn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "curve",
+    "translation": "曲线",
+    "phonetic": "/kɜːrv/",
+    "partOfSpeech": "n./v."
+  },
+  {
+    "word": "cushion",
+    "translation": "垫子",
+    "phonetic": "/ˈkʊʃn/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "custom",
+    "translation": "习俗",
+    "phonetic": "/ˈkʌstəm/",
+    "partOfSpeech": "n./adj."
+  },
+  {
+    "word": "customer",
+    "translation": "顾客",
+    "phonetic": "/ˈkʌstəmər/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "customs",
+    "translation": "海关",
+    "phonetic": "/ˈkʌstəmz/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cut",
+    "translation": "切",
+    "phonetic": "/kʌt/",
+    "partOfSpeech": "v./n."
+  },
+  {
+    "word": "cute",
+    "translation": "可爱的",
+    "phonetic": "/kjuːt/",
+    "partOfSpeech": "adj."
+  },
+  {
+    "word": "cycle",
+    "translation": "循环",
+    "phonetic": "/ˈsaɪkl/",
+    "partOfSpeech": "n."
+  },
+  {
+    "word": "cylinder",
+    "translation": "圆柱体",
+    "phonetic": "/ˈsɪlɪndər/",
+    "partOfSpeech": "n."
+  }
+]
