@@ -1,6 +1,7 @@
 # 英语单词学习应用
 
 一个简洁高效的英语单词学习Web应用，支持IELTS和CET6单词库。
+链接：https://english-vocabulary-daily-test.vercel.app/
 
 ## 功能特性
 
